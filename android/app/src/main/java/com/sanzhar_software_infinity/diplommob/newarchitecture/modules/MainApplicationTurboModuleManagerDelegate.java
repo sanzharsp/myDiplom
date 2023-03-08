@@ -1,4 +1,4 @@
-package com.diplommob.newarchitecture.modules;
+package com.sanzhar_software_infinity.diplommob.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

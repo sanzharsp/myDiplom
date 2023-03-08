@@ -1,4 +1,4 @@
-package com.diplommob.newarchitecture;
+package com.sanzhar_software_infinity.diplommob.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -20,9 +20,9 @@ import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.diplommob.BuildConfig;
-import com.diplommob.newarchitecture.components.MainComponentsRegistry;
-import com.diplommob.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.sanzhar_software_infinity.diplommob.BuildConfig;
+import com.sanzhar_software_infinity.diplommob.newarchitecture.components.MainComponentsRegistry;
+import com.sanzhar_software_infinity.diplommob.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

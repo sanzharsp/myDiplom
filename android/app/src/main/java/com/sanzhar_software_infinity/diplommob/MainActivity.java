@@ -1,4 +1,4 @@
-package com.diplommob;
+package com.sanzhar_software_infinity.diplommob;
 
 import android.os.Build;
 import android.os.Bundle;
